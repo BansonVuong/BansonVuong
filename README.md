@@ -3,9 +3,4 @@ notsweting
 
 amateur dev that can't find the motivation to complete any projects
 
-Links:
------
-
-DMOJ (competitive coding): https://dmoj.ca/user/sweting
-
-Codeforces (competitive coding, inactive): https://codeforces.com/profile/sweting
+[![DMOJ Badge](http://mosesxu.ca/judge-badge/dmoj/sweting)](https://www.dmoj.ca/user/sweting)
